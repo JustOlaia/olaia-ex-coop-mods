@@ -1,6 +1,6 @@
 -- name: OlaiaWorld
 
--- description: Adds 17 skins, such as Olaia, Diego, Alex, Etc. \n\Press D-Pad down to activate the mod. \n\ \n\Press D-Pad left or right to switch the characters.\n\ \nCreated by \\#fff6a7\\Just\\#444444\\Olaia \\#003366\\| version 8.
+-- description: since olaiaworld is cancelled, i made this version, seriously dont switch to other characters except olaia
 
 -- incompatible: olaiaworld
 
